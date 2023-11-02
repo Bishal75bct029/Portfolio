@@ -21,20 +21,18 @@ class Splash extends Component {
     };
   }
 
-  componentDidMount() {
-    this.id = setTimeout(() => this.setState({ redirect: true }), 5500);
-  }
+  // componentDidMount() {
+  //   this.id = setTimeout(() => this.setState({ redirect: true }), 0);
+  // }
 
-  componentWillMount() {
-    clearTimeout(this.id);
-  }
+  // componentWillMount() {
+  //   clearTimeout(this.id);
+  // }
 
   render() {
-    return this.state.redirect ? (
+    return  (
       <Redirect to="/home" />
-    ) : (
-      <AnimatedSplash theme={this.props.theme} />
-    );
+    ) 
   }
 }
 

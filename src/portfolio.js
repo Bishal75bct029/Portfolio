@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Bishal's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://Bishalhathidara.com/",
   },
 };
 
@@ -26,18 +26,18 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  // portfolio_repository: "https://github.com/Bishal1919/masterPortfolio",
   githubProfile: "https://github.com/Bishal75bct029",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // github: "https://github.com/Bishal1919",
+  // linkedin: "https://www.linkedin.com/in/Bishal-hathidara-88710b138/",
+  // gmail: "Bishalhathidara98@gmail.com",
+  // gitlab: "https://gitlab.com/Bishalhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
+  // twitter: "https://twitter.com/Bishal_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
 
   {
@@ -66,7 +66,7 @@ const socialMediaLinks = [
   },
   // {
   //   name: "Twitter",
-  //   link: "https://twitter.com/ashutosh_1919",
+  //   link: "https://twitter.com/Bishal_1919",
   //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
   //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   // },
@@ -384,7 +384,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/users/Bishal_1919",
     },
     {
       siteName: "Codeforces",
@@ -400,7 +400,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/@Bishal391",
     },
     {
       siteName: "Kaggle",
@@ -771,7 +771,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "animated_Bishal.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with any web scrapping and web development solutions.",
   },
@@ -779,7 +779,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://blogs.Bishalhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
